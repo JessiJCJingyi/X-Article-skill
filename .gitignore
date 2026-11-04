@@ -1,0 +1,20 @@
+# Local creator inputs and generated assets
+/private/
+/inputs/
+/corpus/
+/outputs/
+/output/
+/generated/
+/.local/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
